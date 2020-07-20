@@ -7,3 +7,5 @@ Our submission: Semantic Segmentation, Detection AND Localisation of Mucosal Les
 
 SUMNet paper : https://arxiv.org/abs/1901.06920
 
+PS: This is a work in progress. This represents our work before the grand challenge submission deadline. 
+
